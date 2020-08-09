@@ -1,5 +1,8 @@
 # Portfolio-Homework
-[Homework Assignment for week 2](https://alek2535.github.io/Portfolio-Homework/)
+
+## Deployed Application
+
+[Portfolio Homework](https://alek2535.github.io/Portfolio-Homework/)
 
 ## Description
 
